@@ -1,2 +1,2 @@
 # Guía de ejercicios resueltos (Python)
-Ejercicios resueltos en la materia Fundamentos de Informática de la Tecnicatura Universitaria en Desarrollo de Software (2020).
+Ejercicios resueltos en las materias <em>Fundamentos de Informática</em> y <em>Programación I </em> de la Tecnicatura Universitaria en Desarrollo de Software (2020).
